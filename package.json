@@ -1,6 +1,6 @@
 {
   "name": "vuex-shopping-cart",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A lightweight, persistent, local shopping cart that is used as a Vuex module.",
   "main": "index.js",
   "scripts": {
