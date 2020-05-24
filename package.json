@@ -1,0 +1,25 @@
+{
+  "name": "vuex-shopping-cart",
+  "version": "1.0.0",
+  "description": "A lightweight, persistent, local shopping cart that is used as a Vuex module.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vuex",
+    "vue",
+    "cart",
+    "ecommerce",
+    "shopping",
+    "peristent",
+    "local",
+    "storage"
+  ],
+  "author": "Peyton Gardipee",
+  "license": "ISC",
+  "devDependencies": {
+    "lodash": "^4.17.15",
+    "vue": "^2.6.10"
+  }
+}
